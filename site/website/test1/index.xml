@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>49c3</objectGroupId>
+	<objectId>49c34095-42a5-60d9-8553-5966b8bf0720</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test1</folder-name>
+	<internal-name>test1</internal-name>
+	<title>test1</title>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<body>&lt;p&gt;test1&lt;/p&gt;</body>
+	<createdDate>2020-06-05T14:28:03.390Z</createdDate>
+	<createdDate_dt>2020-06-05T14:28:03.390Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T14:28:03.390Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T14:28:03.390Z</lastModifiedDate_dt>
+</page>
